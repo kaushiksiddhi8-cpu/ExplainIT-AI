@@ -1,0 +1,6 @@
+{
+  "name": "ExplainIt AI",
+  "description": "Ask Anything. Understand Everything. Smart multi-level explanations and quizzes for learners of all ages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
